@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "Stream",
+      "description": "Other Stream",
+      "id": 1
+    },
+    {
+      "title": "A new stream",
+      "description": "This is a new stream",
+      "id": 2
+    },
+    {
+      "title": "Unexpected behaviour",
+      "description": "Didn't expect that",
+      "userId": "106372869044836760641",
+      "id": 4
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "this is a PATCH request",
+      "userId": "106372869044836760641",
+      "id": 5
+    },
+    {
+      "title": "This is a new stream!",
+      "description": "An edited stream",
+      "id": 6
+    }
+  ]
+}
